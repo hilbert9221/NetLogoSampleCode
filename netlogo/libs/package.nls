@@ -1,0 +1,3 @@
+to say-hi
+  print greeting
+end

@@ -1,0 +1,3 @@
+to setup
+  set greeting "Hello World!"
+end
